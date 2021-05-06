@@ -1,6 +1,7 @@
 import Head from 'next/head';
-import Header from '../../components/header';
 import Link from 'next/link';
+
+import Header from '../../components/header';
 import styles from '../../styles/Projects.module.scss';
 
 import metadata from '../../ssg/projects.js';
